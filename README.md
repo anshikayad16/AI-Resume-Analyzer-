@@ -5,10 +5,10 @@ An AI Resume Analyzer using Gemini's Generative AI which helps in analysing resu
 In your terminal:-
 
 1️⃣ Clone the repository:
-git clone https://github.com/anshikayad16/AI-Resume-Analyzer
+git clone https://github.com/anshikayad16/AI-Resume-Analyzer-
 
 2️⃣ Go into the project directory:
-cd AI-Resume-Analyzer
+cd AI-Resume-Analyzer-
 
 3️⃣ Install the required Python packages:
 pip install -r requirements.txt 
